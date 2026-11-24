@@ -2,6 +2,16 @@
   "version": "1.1.2",
   "minNative": "1.1.0",
   "released": "2026-11-24T11:40:53Z",
-  "bundle": { "url": "https://github.com/matirdoctor/soilmap-app/releases/download/v1.1.2/SoilMap-update.zip", "sha256": "ed1da4dff42d7d66a6857444413d70164e5d9f71c06cb9afc4126678e9d2b8be" },
-  "android": { "url": "https://github.com/matirdoctor/soilmap-app/releases/download/v1.1.2/SoilMap-android.apk", "sha256": "a61cac5c07c0c9dcf3c5f0c5c81b0ad81f74d9719dbba44b858232130e0c3fc9" }
+  "bundle": {
+    "url": "https://github.com/matirdoctor/soilmap-app/releases/download/v1.1.2/SoilMap-update.zip",
+    "sha256": "ed1da4dff42d7d66a6857444413d70164e5d9f71c06cb9afc4126678e9d2b8be"
+  },
+  "android": {
+    "url": "https://github.com/matirdoctor/soilmap-app/releases/download/v1.1.2/SoilMap-android.apk",
+    "sha256": "a61cac5c07c0c9dcf3c5f0c5c81b0ad81f74d9719dbba44b858232130e0c3fc9"
+  },
+  "ios": {
+    "url": "https://github.com/matirdoctor/soilmap-app/releases/download/v1.1.2/SoilMap-ios-simulator.zip",
+    "sha256": "e2e84a0eed7c235a327faa155d771d6f99bd3bf7655ee1f73d4539bdf562578d"
+  }
 }
