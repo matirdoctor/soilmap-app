@@ -2,7 +2,7 @@
 
 SoilMap app downloads. মাটির ডক্টর SoilMap অ্যাপ ডাউনলোড।
 
-**Latest version / সর্বশেষ সংস্করণ: 1.2.6**
+**Latest version / সর্বশেষ সংস্করণ: 1.2.7**
 
 | | |
 |---|---|
