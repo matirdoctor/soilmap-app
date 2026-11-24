@@ -1,0 +1,7 @@
+{
+  "version": "1.1.0",
+  "minNative": "1.1.0",
+  "released": "2026-11-24T11:22:54Z",
+  "bundle": { "url": "https://github.com/matirdoctor/soilmap-app/releases/download/v1.1.0/SoilMap-update.zip", "sha256": "c6aa8db6318982191f4d909c569c023f0cca673fd2bf2ab867cd02df88c5a612" },
+  "android": { "url": "https://github.com/matirdoctor/soilmap-app/releases/download/v1.1.0/SoilMap-android.apk", "sha256": "a808e2df13fc02b2dc2ee2eeb4e2bd28d091f17eb199a6e12fba50844581d7a2" }
+}
